@@ -116,9 +116,6 @@ nav ul li + li + li {
   margin: 40px auto;
 }
 
-.flex {
-  display: flex;
-}
 .content h1 {
   margin: 0;
 }
